@@ -1,5 +1,7 @@
 # Tableau Homework - Citi Bike Analytics
 
+[My Tableau Public Link](https://public.tableau.com/app/profile/hiam.debsi/viz/CitiBike_WorkBook_Hiam_Debsi/Story?publish=yes)
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
